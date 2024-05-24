@@ -7,58 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Ziao Zhang
+
+This is Ziao Zhang's homepage.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+**Hubei University of Technology**，Department of Computer Science and Technology  
+**Major：**Computer Science and Technology  
+**GPA：**3.7/5.0，Got 4.0+ in 12/25 academic courses.  
+**Date：**2020.9-2024.6  
+**A/A+ Courses：**Discrete Mathematics，Data Structure，C/C++ Programming Language，Digital Image Processing，Data Mining，Robotic Operating System  
+
+Scientific Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Participated in the NLP Lab project of Tsinghua University，
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
+# Other Information
